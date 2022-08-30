@@ -1,5 +1,7 @@
-#This code was written for academic purposes only and never used with maliciuos intentions.
-#I'm not responsible for any users actions with this code.
+#Any actions and or activities related to the code provided is solely your responsibility.
+#The misuse of the information in this website can result in criminal charges brought against the persons in question.
+#The authors will not be held responsible in the event any criminal charges be brought against any individuals misusing
+#the information in this tool to break the law.
 
 
 import os
