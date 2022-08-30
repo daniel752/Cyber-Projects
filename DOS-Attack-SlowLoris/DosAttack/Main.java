@@ -1,3 +1,8 @@
+//Any actions and or activities related to the code provided is solely your responsibility.
+//The misuse of the information in this website can result in criminal charges brought against the persons in question.
+//The authors will not be held responsible in the event any criminal charges be brought against any individuals misusing
+//the information in this tool to break the law.
+
 private void sendSlowLorisRequest() throws Exception
 {
     Socket socket = new Socket(InetAddress.getByName(HOST),PORT);
